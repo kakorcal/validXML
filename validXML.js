@@ -1,3 +1,7 @@
+if (typeof window === 'undefined') {
+  require('console.table');
+}
+
 function validXML(xml) {
   if(xml === '') {
     return true;

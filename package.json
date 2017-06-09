@@ -1,0 +1,23 @@
+{
+  "name": "validXML",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validXML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakorcal/validXML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakorcal/validXML/issues"
+  },
+  "homepage": "https://github.com/kakorcal/validXML#readme",
+  "dependencies": {
+    "console.table": "^0.8.0"
+  }
+}
