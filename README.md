@@ -7,11 +7,11 @@ $ node validXML.js
 ```
 
 
-###Contribute
+### Contribute
 
 Contributions are always welcome!
 
 
-###License
+### License
 
 MIT
