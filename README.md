@@ -1,19 +1,20 @@
 # validXML
 ![pic](./screenshot.jpg)
 ### Installation
+----
 ```sh
 $ npm install
 $ node validXML.js 
 ```
 
 
-Contribute
+###Contribute
 ----
 
 Contributions are always welcome!
 
 
-License
+###License
 ----
 
 MIT
